@@ -1,0 +1,11 @@
+web/node_modules/
+web/dist/
+web/export/
+web/jspm_packages/
+addin/bin/
+addin/obj/
+addin/pkg/
+addin/pkgobj/
+*.suo
+*.csproj.user
+.vs/

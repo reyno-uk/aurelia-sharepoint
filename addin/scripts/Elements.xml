@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="scripts">
+    <File Path="scripts\config.js" Url="scripts/config.js" ReplaceContent="TRUE" />
+    <File Path="scripts\system-csp-production.js" Url="scripts/system-csp-production.js" ReplaceContent="TRUE" />
+    <File Path="scripts\system-polyfills.js" Url="scripts/system-polyfills.js" ReplaceContent="TRUE" />
+    <File Path="scripts\system.js" Url="scripts/system.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

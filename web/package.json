@@ -1,0 +1,35 @@
+{
+  "name": "sharepoint-aurelia-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "jspm": {
+    "dependencies": {
+      "aurelia-bootstrapper": "npm:aurelia-bootstrapper@^1.0.0-beta.1.2.1",
+      "aurelia-framework": "npm:aurelia-framework@^1.0.0-beta.1.2.5",
+      "fetch": "github:github/fetch@^1.0.0",
+      "font-awesome": "npm:font-awesome@^4.6.3",
+      "text": "github:systemjs/plugin-text@^0.0.8"
+    },
+    "devDependencies": {}
+  },
+  "devDependencies": {
+    "aurelia-bundler": "^0.4.0",
+    "bluebird": "^3.4.0",
+    "browser-sync": "^2.12.10",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-tsb": "^1.10.4",
+    "jspm": "^0.16.35",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.2.1",
+    "typescript": "^1.8.10",
+    "vinyl-paths": "^2.1.0"
+  }
+}

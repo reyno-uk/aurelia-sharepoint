@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd"
+    },
+    "filesGlob":[
+        "typings/globals/**/*.d.ts",
+        "jspm_packages/**/*.d.ts",
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

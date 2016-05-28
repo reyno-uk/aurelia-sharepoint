@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="dist">
+    <File Path="dist\app-build.js" Url="dist/app-build.js" ReplaceContent="TRUE" />
+    <File Path="dist\aurelia.js" Url="dist/aurelia.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
